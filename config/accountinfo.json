@@ -1,0 +1,39 @@
+{
+  "systemaccount":[
+    "eosio.bpay",
+    "eosio.msig",
+    "eosio.names",
+    "eosio.ram",
+    "eosio.ramfee",
+    "eosio.saving",
+    "eosio.stake",
+    "eosio.token",
+    "eosio.vpay"
+  ],
+  "system_publickey": "EOS8Znrtgwt8TfpmbVpTKvA2oB8Nqey625CLN8bCN3TEbgx86Dsvr",
+  "system_privatekey": "5K463ynhZoCDDa4RDcr63cUwWLTnKqmdcoTKTHBjqoKfv4u5V7p",
+  "voteaccount": ["vote","5KSSyxUYAkvntPnR3vJK4iHiu3CDrHMRe8ZYVXFpnz6mGUWxrYB", "EOS7DQXjrYrU1iyGTZr5H5CawDDaWgRGHPABtqHxDZKqAyX8GU6q8"],
+  "produceraccount": ["prod","5KWHr9eCrLeJvG3d5vQyoocjyfwzykgUhp3i25Qm9WUc8Bbk5YA", "EOS62uo5UDcPtwd3JEaqFFVjuyXjA9xeiz959ThAzm7hfrPq9UAvW"],
+  "voters": [
+    ["voter11.vote","5JHA72tdcD7FrLTrQhrAhjz682XUbKgvKo2vcdhe9fN4wLNF14h", "EOS66Cweq7FQK3SeAXScSVo6nCx3qo5buRWpW2Y5EUJmGBkQRwgkf"],
+    ["voter12.vote","5JKo6rLbAxcu4fB692wUBdk3eL9paNQ5cnaZhhiW29fKskAZkaQ", "EOS82iGG5VmVnERva5SMXTHUdzWeov4mpwseTVWGo4E24vwkVtwHT"],
+    ["voter13.vote","5K4QygbowEq6ioCTMttUDM7xKgEX3MwSewCvGFWVSSEQy76Enme", "EOS85JwwjYqzSaPLy5S1NoHTK48CkTcesvjHfe8FNZhcAZ8TJkwPr"],
+    ["voter14.vote","5J7W2oVLwbvxdG1ijEPWoGJrDJ3zinwsxgCX4AhQok6S1rsvq7t", "EOS5SkPzD88Z3obe4JKk7fd224XG6aMsMma1HZ4Rm4WKC2cCiYPWD"],
+    ["voter15.vote","5K1Dma7ndNuBopoVL5nSzk4nE2nrCtnoghYmvAXAiBh3eAVDuqq", "EOS8aE1net9wGEdRo4RNEXbvw5VaE1YLEJ6HFZD3sqD1nW8UCv5c1"],
+    ["voter1a.vote","5KVMywFYU1sj5XWVMShL4Td9eBQsSNBhRXqo11K6hrVF9WjiU8a", "EOS5Np2TNCRPLkkwu1oZoyK6kfqb5WTpX6vVphcNP9iMEspYxCyjM"],
+    ["voter1b.vote","5JVJRYNAh3ekTg4PxzGQAC3HW9vr5jZE6XLpkzd9Zza5XGWEqsV", "EOS7YLno14hcu82c2NzzhgxYkZDtW71dfND9rMvmFvRSa3SxwFwf8"],
+    ["voter1c.vote","5KT7uUKT15NNbUb6NBLi5VTY7mk3p2WnZqZfymJKMGXyvG64qjd", "EOS62dZEnVbWgX9LTnvhNew17kPgJxBSDWEZLRNa1nXrGXcahr6c5"],
+    ["voter1d.vote","5JrPw52btYsDJG3gcsUUcj71yY56jLZQPkkNSsquUuoetZiHdsb", "EOS59pECSoqS7BC2pRth8wZcoVSK4bEZNYk4K55saamUcyF7ssYEU"],
+    ["voter1e.vote","5JV1yzqaETFAa95B7Whu9kVbMFwJXRMa54pGppVDB2qJUF94Jb8", "EOS8ADDt3jyvYYx1L3tx6G4N6WtR19rtJifCZbiLEzEydJxcqjRXd"]
+  ],
+  "producers": [
+    ["beijing.prod","5JGhSHzNDCL8oSLht1N5Tx3Hg1mBHjVy8FXwgqG5pd6Etoi9tS1", "EOS7Deh2dYhTycB4dtkqYrjDqDJtG3oshoe3SgjByPDPCza1XkDTT"],
+    ["shenz.prod","5KhZiTkG8S4dQQVe9Wn7VYBpABYEAV7mKh3wu4AMPWFycsGnmfh", "EOS6J5k9AmpGv9QGm1hJbu72tdWEs98R4kRfi9cGSnvShXpohm6HZ"],
+    ["tokyo.prod","5Hz6miKviYhpThMTL6XYHMdFDjXZaVJZTBVwAksQDWrTczaefVu", "EOS7GnSMBEYzvLTazhHJeMTrAkm1V62S8sc2BkxrjnGX1Ef64xDbc"]
+  ],
+  "nodeproducer" :[
+    "beijing.prod",
+    "5JGhSHzNDCL8oSLht1N5Tx3Hg1mBHjVy8FXwgqG5pd6Etoi9tS1",
+    "EOS7Deh2dYhTycB4dtkqYrjDqDJtG3oshoe3SgjByPDPCza1XkDTT"
+  ]
+}
